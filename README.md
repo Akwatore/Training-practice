@@ -4,7 +4,7 @@
 
 [1.1](https://github.com/Akwatore/Training-practice/tree/master/1.1) Изучить и проанализировать печатные и Internet-источники по философским проблемам информатики
 
-1.2 Выделить важные этапы в истории развития информатики и их социальные последствия
+[1.2](https://github.com/Akwatore/Training-practice/tree/master/1.2) Выделить важные этапы в истории развития информатики и их социальные последствия
 
 [1.3](https://github.com/Akwatore/Training-practice/tree/master/1.3) Изучить стандарты и спецификации в сфере ИТ
 
